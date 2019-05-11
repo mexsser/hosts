@@ -33637,14 +33637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 theappguruz.com
 0.0.0.0 thelifeisbinary.ddns.net
 0.0.0.0 thelifeisbinary.netlify.com
-0.0.0.0 thepiratebay.be
-0.0.0.0 thepiratebay.bl
-0.0.0.0 thepiratebay.cr
-0.0.0.0 thepiratebay.is
-0.0.0.0 thepiratebay.ki
-0.0.0.0 thepiratebay.org
-0.0.0.0 thepiratebay-proxylist.se
-0.0.0.0 thepiratebay.wtf
 0.0.0.0 thersprens.com
 0.0.0.0 thevideo.ch
 0.0.0.0 thewhizmarketing.com
@@ -34875,9 +34867,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.thatresha.com
 0.0.0.0 www.theappguruz.com
 0.0.0.0 www.thelifeisbinary.netlify.com
-0.0.0.0 www.thepiratebay.cr
-0.0.0.0 www.thepiratebay.org
-0.0.0.0 www.thepiratebay.wtf
 0.0.0.0 www.thewhizmarketing.com
 0.0.0.0 www.thewhizproducts.com
 0.0.0.0 www.thewise.com
@@ -41214,3 +41203,15 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+
+# ban hupu ad
+0.0.0.0 shence.hupu.com
+0.0.0.0 cc.dace.hupu.com
+0.0.0.0 games.mobileapi.hupu.com
+0.0.0.0 v3-ad.ixigua.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 adx.hupu.com
+0.0.0.0 lf.snssdk.com
+0.0.0.0 jpush.cn
+
